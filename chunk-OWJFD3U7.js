@@ -1,1 +1,0 @@
-import{a as o}from"./chunk-ZC6LPWP7.js";import"./chunk-JN447JVP.js";import"./chunk-TIDBCW7X.js";import"./chunk-Z6L3GO4I.js";import"./chunk-TMVVO5PM.js";import"./chunk-ACKELEN3.js";var m=[{path:"home",component:o}];export{m as default};
